@@ -2,7 +2,7 @@
 
 Personal site for **Suyash** (`s4yush`), a first-year BTech CSE student aiming to become a software engineer.
 
-Layout and motion are based on [xditya/portfolio](https://github.com/xditya/portfolio). Your details live in one file:
+Layout and motion are based on  https://suyashs-web-app.vercel.app/ . Your details live in one file:
 
 **`src/lib/site.ts`** — name, bio, GitHub, Gmail, Spotify, LinkedIn, and projects. Replace every `YOUR_*` placeholder when you have the real links. Add projects there later.
 
